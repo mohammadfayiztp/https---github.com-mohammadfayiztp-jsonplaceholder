@@ -1,0 +1,265 @@
+[
+  {
+    "id": "02fc8262-c36e-47b2-9891-a2c1475013a2",
+    "items": [
+      {
+        "id": "30cf2b4b-1e66-4e92-8a18-2d12c6a810ab",
+        "component": [
+          {
+            "xs": 12,
+            "render": {
+              "key": null,
+              "ref": null,
+              "props": {
+                "minHeight": { "xs": "", "md": "1200px" },
+                "position": "relative",
+                "justifyContent": { "xs": "center" },
+                "alignItems": { "xs": "center" },
+                "textAlign": { "xs": "center" },
+                "children": [
+                  {
+                    "key": null,
+                    "ref": null,
+                    "props": {
+                      "component": "img",
+                      "alt": "airoplane",
+                      "sx": {
+                        "display": { "xs": "none", "md": "inherit" },
+                        "position": "absolute",
+                        "top": -150,
+                        "transform": "rotate(40deg)",
+                        "objectFit": "cover",
+                        "maxWidth": "1300px"
+                      },
+                      "src": "https://s3-alpha-sig.figma.com/img/b8aa/39f9/c4018170411cc7c4026b8eedea5a5d59?Expires=1708300800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=HFYkuEovPNORCXGQpswGeAAVsEJQ9s0Xl4iM9yjpcyKvGxHG80g5LuEL7E7lGX~1~gfkdhqy4ksNOg~mobKHoB7iJigcp01shDZqvb3hWcoPNFihWCNHZ1aw0IFAHRqj2CczOOB7Y9q6Dn83ATvmsPOyTgvQcowaJz1QHhu-wVMYcHQv-GII3yKzxgMrtuis0bujLisfAzaN~8e8gnM917FI2pqIGJ-re6kPe0-joJKUF0~kjXk2IbPBGKqzx7YHSuCv52Zrk35aGi5NwHNK534WN8DDyNPyTzprrjUNvCC~DPnCCKI3ExoSdeiEfzJhOb9YE8KUySDpI3ak6F0D-A__"
+                    },
+                    "_owner": null,
+                    "_store": {}
+                  },
+                  {
+                    "key": null,
+                    "ref": null,
+                    "props": {
+                      "sx": {
+                        "backgroundColor": "rgba(255, 255, 255, 1)",
+                        "background": "linear-gradient(180deg, rgba(239, 246, 255, 0.69) 0%, rgba(219, 234, 254, 0.69) 100%)",
+                        "zIndex": 100,
+                        "position": "relative"
+                      },
+                      "children": [
+                        {
+                          "key": null,
+                          "ref": null,
+                          "props": {
+                            "pl": { "xs": 0 },
+                            "mt": { "xs": 0 },
+                            "sx": {
+                              "color": { "xs": "black" },
+                              "width": { "xs": "100%" }
+                            },
+                            "variant": "h1",
+                            "fontSize": { "xs": "2rem", "md": "3.5rem" },
+                            "fontWeight": { "xs": 800 },
+                            "children": "Our Key Features"
+                          },
+                          "_owner": null,
+                          "_store": {}
+                        },
+                        {
+                          "key": null,
+                          "ref": null,
+                          "props": {
+                            "pl": { "xs": 0, "md": 5 },
+                            "pr": { "xs": 0, "md": 5 },
+                            "mt": { "xs": 0, "md": 3 },
+                            "mb": { "xs": 0, "md": 10 },
+                            "sx": { "color": { "xs": "black" } },
+                            "children": "We are more than just an aircraft maintenance service. We are industry innovators, sustainability advocates, and trusted partners. Delve into the distinctive features that make our services exemplary:"
+                          },
+                          "_owner": null,
+                          "_store": {}
+                        }
+                      ]
+                    },
+                    "_owner": null,
+                    "_store": {}
+                  },
+                  {
+                    "key": null,
+                    "ref": null,
+                    "props": {
+                      "zIndex": 100,
+                      "direction": { "xs": "column", "md": "row" },
+                      "spacing": 2,
+                      "position": { "xs": "inherit", "md": "absolute" },
+                      "top": { "xs": 0, "md": 620 },
+                      "p": 2,
+                      "children": [
+                        {
+                          "key": null,
+                          "ref": null,
+                          "props": {
+                            "children": {
+                              "key": null,
+                              "ref": null,
+                              "props": {
+                                "justifyContent": { "xs": "center" },
+                                "alignItems": { "xs": "center" },
+                                "textAlign": { "xs": "center" },
+                                "maxWidth": "300px",
+                                "children": [
+                                  {
+                                    "key": null,
+                                    "ref": null,
+                                    "props": { "children": "settings" },
+                                    "_owner": null,
+                                    "_store": {}
+                                  },
+                                  {
+                                    "key": null,
+                                    "ref": null,
+                                    "props": {
+                                      "variant": "h3",
+                                      "fontWeight": 800,
+                                      "sx": { "color": { "xs": "black" } },
+                                      "children": "Expert Maintenance Team"
+                                    },
+                                    "_owner": null,
+                                    "_store": {}
+                                  },
+                                  {
+                                    "key": null,
+                                    "ref": null,
+                                    "props": {
+                                      "children": "Our crew is composed of seasoned professionals with years of experience in the aviation industry. They carry a wealth of knowledge and a strong commitment to their craft, enabling us to tackle the most complex maintenance challenges head-on."
+                                    },
+                                    "_owner": null,
+                                    "_store": {}
+                                  }
+                                ]
+                              },
+                              "_owner": null,
+                              "_store": {}
+                            }
+                          },
+                          "_owner": null,
+                          "_store": {}
+                        },
+                        {
+                          "key": null,
+                          "ref": null,
+                          "props": {
+                            "children": {
+                              "key": null,
+                              "ref": null,
+                              "props": {
+                                "p": { "xs": 0, "md": 2 },
+                                "justifyContent": { "xs": "center" },
+                                "alignItems": { "xs": "center" },
+                                "textAlign": { "xs": "center" },
+                                "maxWidth": "300px",
+                                "children": [
+                                  {
+                                    "key": null,
+                                    "ref": null,
+                                    "props": { "children": "Settings" },
+                                    "_owner": null,
+                                    "_store": {}
+                                  },
+                                  {
+                                    "key": null,
+                                    "ref": null,
+                                    "props": {
+                                      "variant": "h3",
+                                      "fontWeight": 800,
+                                      "sx": { "color": { "xs": "black" } },
+                                      "children": "Swift Turnarounds"
+                                    },
+                                    "_owner": null,
+                                    "_store": {}
+                                  },
+                                  {
+                                    "key": null,
+                                    "ref": null,
+                                    "props": {
+                                      "children": "Our crew is composed of seasoned professionals with years of experience in the aviation industry. They carry a wealth of knowledge and a strong commitment to their craft, enabling us to tackle the most complex maintenance challenges head-on."
+                                    },
+                                    "_owner": null,
+                                    "_store": {}
+                                  }
+                                ]
+                              },
+                              "_owner": null,
+                              "_store": {}
+                            }
+                          },
+                          "_owner": null,
+                          "_store": {}
+                        },
+                        {
+                          "key": null,
+                          "ref": null,
+                          "props": {
+                            "children": {
+                              "key": null,
+                              "ref": null,
+                              "props": {
+                                "p": { "xs": 0, "md": 2 },
+                                "justifyContent": { "xs": "center" },
+                                "alignItems": { "xs": "center" },
+                                "textAlign": { "xs": "center" },
+                                "maxWidth": "300px",
+                                "children": [
+                                  {
+                                    "key": null,
+                                    "ref": null,
+                                    "props": { "children": "Settings" },
+                                    "_owner": null,
+                                    "_store": {}
+                                  },
+                                  {
+                                    "key": null,
+                                    "ref": null,
+                                    "props": {
+                                      "variant": "h3",
+                                      "fontWeight": 800,
+                                      "sx": { "color": { "xs": "black" } },
+                                      "children": "Sustainability Commitment"
+                                    },
+                                    "_owner": null,
+                                    "_store": {}
+                                  },
+                                  {
+                                    "key": null,
+                                    "ref": null,
+                                    "props": {
+                                      "children": "Our crew is composed of seasoned professionals with years of experience in the aviation industry. They carry a wealth of knowledge and a strong commitment to their craft, enabling us to tackle the most complex maintenance challenges head-on."
+                                    },
+                                    "_owner": null,
+                                    "_store": {}
+                                  }
+                                ]
+                              },
+                              "_owner": null,
+                              "_store": {}
+                            }
+                          },
+                          "_owner": null,
+                          "_store": {}
+                        }
+                      ]
+                    },
+                    "_owner": null,
+                    "_store": {}
+                  }
+                ]
+              },
+              "_owner": null,
+              "_store": {}
+            }
+          }
+        ]
+      }
+    ]
+  }
+]
